@@ -61,7 +61,7 @@ This project follows a **mobile-first, responsive design approach** and implemen
 
 ### Admin Dashboard
 *Complete overview of store performance with system health monitoring*  
->
+>![alt text](image.png)
 
 ### Product Management
 *Manage inventory, pricing, and product details*  
