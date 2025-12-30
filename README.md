@@ -57,38 +57,6 @@ This project follows a **mobile-first, responsive design approach** and implemen
 
 ---
 
-## 📸 Screenshots
-
-### Admin Dashboard
-*Complete overview of store performance with system health monitoring*  
->![alt text](image.png)
-
-### Product Management
-*Manage inventory, pricing, and product details*  
-> *(Add screenshot here)*
-
-### Customer Interface
-- Modern homepage with promotional banners  
-  > *(Add screenshot here)*
-- Product listing with advanced filters  
-  > *(Add screenshot here)*
-- Detailed product view with reviews and ratings  
-  > *(Add screenshot here)*
-
-### User Features
-- Customer profile management  
-  > *(Add screenshot here)*
-- Secure checkout with multiple payment options  
-  > *(Add screenshot here)*
-- Contact form with integrated location map  
-  > *(Add screenshot here)*
-
-### Company Information
-- Mission, vision, and values page  
-  > *(Add screenshot here)*
-
----
-
 ## 🚀 Installation & Setup
 
 1. Clone the repository
